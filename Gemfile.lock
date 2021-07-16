@@ -101,6 +101,9 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    mimemagic (0.3.9)
+      nokogiri (~> 1)
+      rake
     ace-rails-ap (2.0.1)
     actioncable (6.0.3.1)
       actionpack (= 6.0.3.1)
